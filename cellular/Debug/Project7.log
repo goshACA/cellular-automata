@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\dell\source\repos\project7\project7\opengl_visualizer.h(199): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  c:\users\dell\source\repos\project7\project7\opengl_visualizer.h(199): note: see reference to class template instantiation 'opengl_visualizer<Field>' being compiled
+c:\users\dell\source\repos\project7\project7\probabilistic_rules.h(110): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\dell\source\repos\project7\project7\probabilistic_rules.h(108): note: while compiling class template member function 'int probabilistic_rules<matrix_field_proxy<bool>,bool>::get_random_range_length(double) const'
+  c:\users\dell\source\repos\project7\project7\probabilistic_rules.h(78): note: see reference to function template instantiation 'int probabilistic_rules<matrix_field_proxy<bool>,bool>::get_random_range_length(double) const' being compiled
+  c:\users\dell\source\repos\project7\project7\source.cpp(195): note: see reference to class template instantiation 'probabilistic_rules<matrix_field_proxy<bool>,bool>' being compiled
+c:\users\dell\source\repos\project7\project7\probabilistic_rules.h(113): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project7.vcxproj -> C:\Users\DELL\source\repos\Project7\Debug\Project7.exe
